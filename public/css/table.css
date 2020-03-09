@@ -1,0 +1,17 @@
+
+.tableTamanio{
+  width: 80% !important;
+}
+.tablepa{
+  padding: 10px;
+}
+
+.btn-erase{
+  background-color: #f8980f;
+}
+.btn-save{
+  background-color: #44a5c0;
+}
+.btn-primary{
+    background-color: #e6b549;
+}
